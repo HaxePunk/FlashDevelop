@@ -1,7 +1,7 @@
 HaxePunk project template for FlashDevelop.
 
 Installation:
-DragDrop HPXTemplate.fdz to FlashDevelop - will install for current user, OR
+DragDrop HXPTemplate.fdz to FlashDevelop - will install for current user, OR
 copy $(BaseDir) contents to your FlashDevelop installation folder(install for all users).
 
 Update:
