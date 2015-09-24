@@ -2,9 +2,8 @@ import com.haxepunk.Scene;
 
 class MainScene extends Scene
 {
-	 public function new()
-	 {
-		super();
-	 }
-	  
- }
+	public override function begin()
+	{
+
+	}
+}
