@@ -1,0 +1,1 @@
+Music and sound files, WAV and OGG format or MP3 format when targeting flash, should be placed in this folder. They can be organized in sub-folders if necessary.
