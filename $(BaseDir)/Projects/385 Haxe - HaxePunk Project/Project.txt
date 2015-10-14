@@ -1,1 +1,1 @@
-A HaxePunk project written in the HaXe 3 language (with OpenFL). 
+A HaxePunk project written in the Haxe language (with OpenFL). 
